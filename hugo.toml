@@ -1,0 +1,24 @@
+baseURL = 'https://patzsche.de/'
+languageCode = 'en-us'
+title = 'Patzsche.de'
+theme = 'ananke'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3
+
+[params]
+    site_logo = "img/logo_white_123px.svg"
+    description = "The last theme you'll ever need. Maybe."
+    author = "Patzsche"
+
+[sitemap]
+    changefreq = "monthly"
+    priority = 0.5
+    filename = "sitemap.xml"
+
+[[params.ananke_socials]]
+    name = "github"
+    url = "https://github.com/Zehamor368"
+    color = "#ffffff"
+    rel = "noopener"
