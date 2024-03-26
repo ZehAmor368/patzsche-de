@@ -9,7 +9,7 @@ Paginate = 3
 
 [params]
     site_logo = "img/logo_white_123px.svg"
-    description = "The last theme you'll ever need. Maybe."
+    description = "Some of my thoughts may be found here."
     author = "Patzsche"
 
 [sitemap]
