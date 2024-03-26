@@ -1,9 +1,9 @@
 +++
-title = 'Patzsche'
+title = 'patzsche'
 description = ''
 date = 2024-03-21T21:48:13+01:00
 draft = false
-featured_image= '/images/gohugo-default-sample-hero-image.jpg'
+featured_image= '/img/earth-2254769_1920.jpg'
 +++
 
 ```go

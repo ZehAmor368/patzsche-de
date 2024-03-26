@@ -1,6 +1,6 @@
 baseURL = 'https://patzsche.de'
 languageCode = 'en-us'
-title = 'Patzsche.de'
+title = 'patzsche.de'
 theme = 'ananke'
 
 DefaultContentLanguage = "en"
@@ -10,7 +10,7 @@ Paginate = 3
 [params]
     site_logo = "img/logo_white_123px.svg"
     description = "Some of my thoughts may be found here."
-    author = "Patzsche"
+    author = "patzsche"
 
 [sitemap]
     changefreq = "monthly"
